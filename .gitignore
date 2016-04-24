@@ -1,6 +1,5 @@
+# IntelliJ IDE files
 *.iml
-.gradle
-/local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .idea/
